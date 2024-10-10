@@ -33,41 +33,41 @@ The primary objective was to create a comprehensive dashboard using Looker Studi
       ALL KPI
 
   2. Traffic Overview:
-       Total Visitors (Sessions): The number of visitors or sessions on the website within the month.
-       Unique Visitors: Number of individual users visiting the site.
-       Pageviews: Total number of pages viewed.
-       Top Traffic Sources: Breakdown of where traffic is coming from (e.g., Organic Search, Direct, Referral, Social, Paid Ads).
-       Traffic by Device: Percentage split between desktop, mobile, and tablet visitors.
+       * Total Visitors (Sessions): The number of visitors or sessions on the website within the month.
+       * Unique Visitors: Number of individual users visiting the site.
+       * Pageviews: Total number of pages viewed.
+       * Top Traffic Sources: Breakdown of where traffic is coming from (e.g., Organic Search, Direct, Referral, Social, Paid Ads).
+       * Traffic by Device: Percentage split between desktop, mobile, and tablet visitors.
 
 
  3. Engagement Metrics
-       Bounce Rate: Percentage of visitors who leave the site after viewing only one page.
-       Average Session Duration: How long users spend on the site on average.
-       Pages per Session: The average number of pages viewed during a session.
-       New vs. Returning Visitors: Percentage breakdown of new visitors compared to returning visitors.
+      * Bounce Rate: Percentage of visitors who leave the site after viewing only one page.
+      * Average Session Duration: How long users spend on the site on average.
+      * Pages per Session: The average number of pages viewed during a session.
+      * New vs. Returning Visitors: Percentage breakdown of new visitors compared to returning visitors.
 
 4. Top Performing Pages
-      A list of pages with the most visits, showing which content or pages are attracting the most traffic.
-      Pageviews, Bounce Rate, and Average Time on Page for each of the top pages.
+      * A list of pages with the most visits, showing which content or pages are attracting the most traffic.
+      * Pageviews, Bounce Rate, and Average Time on Page for each of the top pages.
 
 5. Traffic Acquisition
-     Organic Search: How much traffic is coming from search engines, what are the keywords used
-     Referral Traffic: Which websites are sending visitors
-     Social Media Traffic: Traffic coming from social platforms.
-     Paid Traffic: Overview of paid ad campaigns and their performance.
+     * Organic Search: How much traffic is coming from search engines, what are the keywords used
+     * Referral Traffic: Which websites are sending visitors
+     * Social Media Traffic: Traffic coming from social platforms.
+     * Paid Traffic: Overview of paid ad campaigns and their performance.
 
 6. Conversions and Goals
-    Total Conversions: Number of goal completions, such as form submissions, sales, or other actions.
-    Conversion Rate: Percentage of visitors completing a goal out of the total traffic.
-    Top Conversion Pages: Pages that lead to the highest number of conversions.
+    * Total Conversions: Number of goal completions, such as form submissions, sales, or other actions.
+    * Conversion Rate: Percentage of visitors completing a goal out of the total traffic.
+    * Top Conversion Pages: Pages that lead to the highest number of conversions.
 
 7. Funnel Analysis:
-     If applicable, the drop-off rates at each stage of the conversion process.
+    * If applicable, the drop-off rates at each stage of the conversion process.
 
 8. User Demographics
-    Geography: Where users are located (countries, cities).
-    Language: Languages spoken by users.
-    Usage: Insights into device and browser breakdown.
+    * Geography: Where users are located (countries, cities).
+    * Language: Languages spoken by users.
+    * Usage: Insights into device and browser breakdown.
 #### ✅ Additional Adjustments, Troubleshooting or Fixes.
 
 
